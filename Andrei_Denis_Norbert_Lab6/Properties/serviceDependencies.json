@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "Andrei_Denis_Norbert_Lab6Context"
+    }
+  }
+}
